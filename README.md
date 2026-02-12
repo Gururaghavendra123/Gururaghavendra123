@@ -20,6 +20,8 @@ I'm always down for:
 * 🏋️ **Gym Sessions** (Discipline in the rack, discipline in the code).
 * 🗣️ **Ranting** (About the current state of the tech industry over coffee).
 
+here is my mail id - pgururaghavendra1@gmail.com
+
 ---
 
 ### 🚀 High-Impact Builds
