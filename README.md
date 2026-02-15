@@ -2,7 +2,8 @@
 
 **CS Student (Cybersec) | CCO @ Asymmetric Tech Club | AI & SDE Builder | Aspiring Product Manager / Business analyst**
 
-Living on a **70/30 split of Absurdism and Nietzschean resolve**. I specialize in **Agentic AI** and **High-Performance SDE**, currently navigating a Cybersecurity degree while building systems that actually work.
+Living on a **70/30 split of Absurdism and Nietzschean resolve**. I specialize in **Agentic AI** and **High-Performance SDE**, currently navigating a Cybersecurity degree while building systems that actually work lol.
+
 
 ---
 ### 📈 The Numbers
