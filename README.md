@@ -2,7 +2,7 @@
 
 **CS Student (Cybersec) | CCO @ Asymmetric Tech Club | AI & SDE Builder | Aspiring Product Manager / Business analyst**
 
-Living on a **70/30 split of Absurdism and Nietzschean resolve**. I specialize in **Agentic AI** and **High-Performance SDE**, currently navigating a Cybersecurity degree while building systems that actually work lol.
+Living on a **70/30 split of Absurdism and Nietzschean resolve**. I specialize in **AI** and **SDE**, currently navigating a Cybersecurity degree while building systems that actually work lol.
 
 
 ---
@@ -17,8 +17,8 @@ Living on a **70/30 split of Absurdism and Nietzschean resolve**. I specialize i
   ### 🤝 Let's Connect
 I'm always down for:
 * 🚀 **Collabs & Hackathons** (Let's build something chaotic).
-* 🧠 **Learning** (Currently deep into Agentic AI & RAG).
-* 🏋️ **Gym Sessions** (Discipline in the rack, discipline in the code).
+* 🧠 **Learning** (Currently deep into AI,Agents, RAG, CLAUDE ETC ETC).
+* 🏋️ **Gym Sessions** (Discipline in the rack).
 * 🗣️ **Ranting** (About the current state of the tech industry over coffee).
 
 here is my mail id - pgururaghavendra1@gmail.com
@@ -42,9 +42,9 @@ here is my mail id - pgururaghavendra1@gmail.com
 ---
 
 ### 🛠️ Tech & Environment
-* **Stack:** Python (AI/ML), Java (DSA), Go, FastAPI, LangChain, PostgreSQL.
-* **OS:** Power-using **Fedora Linux** (VMware setup).
-* **Focus:** Currently grinding **Java DSA** for the SDE endgame.
+* **Stack:** Python (AI/ML), Java (DSA), Go, FastAPI, LangChain,SQL.
+* **OS:** Power-using Windows with **Fedora Linux** (VMware setup).
+* **Focus:** Currently grinding **Java DSA** for the SDE endgame and doing interview prep.
 
 ---
 
