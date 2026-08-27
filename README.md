@@ -38,8 +38,8 @@ I'm a **B.E CSE (Cyber Security)** student at **Chennai Institute of Technology*
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=Gururaghavendra123&theme=radical&hide_border=true" />
 </div>
