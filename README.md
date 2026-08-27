@@ -14,12 +14,12 @@
 
 I'm a **B.E CSE (Cyber Security)** student at **Chennai Institute of Technology**, living on a **70/30 split of Absurdism and Nietzschean resolve**. I build **AI systems and backend software that actually work**, currently serving as **Chief Communication Officer @ Asymmetric Tech Club**, and gunning for a role in **Product/SDE** land.
 
-* 🔭 Currently building AI agent pipelines and grinding **Java DSA** for the SDE endgame.
-* 🌱 Deep in **LangGraph, RAG, Agentic Workflows, and Gemini**.
-* ⚡ Grand Finalist — **IIT Jodhpur Fintech Hackathon 2024** (built **EcoCred**).
-* 🌊 Top 25 — **Smart India Hackathon 2025** (built **FloatChat**).
-* 🏋️ Off the clock: gym discipline + ranting about the state of tech over coffee.
-* 🤝 Down for hackathons, collabs, and chaotic build sessions — hit me up.
+*  Currently building AI projects and grinding **DSA** for the placements endgame.
+*  Deep in **LangGraph, RAG, Agentic Workflows, and Gemini**.
+*  Grand Finalist — **IIT Jodhpur Fintech Hackathon 2024** (built **EcoCred**).
+*  Top 25 — **Smart India Hackathon 2025** (built **FloatChat**).
+*  Off the clock: gym discipline + ranting about the state of tech and my life over coffee.
+*  Down for hackathons, collabs, tech meetups and chaotic build sessions — hit me up :))))
 
 ---
 
@@ -30,7 +30,9 @@ I'm a **B.E CSE (Cyber Security)** student at **Chennai Institute of Technology*
 </div>
 
 **Generative AI:** LangChain · LangGraph · Gemini · RAG · Agentic Workflows · Prompt Engineering
+
 **AI/ML:** Pandas · NumPy · Scikit-learn · XGBoost · Graph Neural Networks · Feature Engineering
+
 **Testing:** Selenium · TestNG · Cucumber · Gherkin · JUnit
 
 ---
@@ -38,8 +40,8 @@ I'm a **B.E CSE (Cyber Security)** student at **Chennai Institute of Technology*
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="200" src="https://raw.githubusercontent.com/Gururaghavendra123/Gururaghavendra123/main/generated/overview.svg#gh-dark-mode-only" />
-<img height="200" src="https://raw.githubusercontent.com/Gururaghavendra123/Gururaghavendra123/main/generated/languages.svg#gh-dark-mode-only" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com/?user=Gururaghavendra123&theme=radical&hide_border=true" />
 </div>
