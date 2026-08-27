@@ -39,23 +39,6 @@ I'm a **B.E CSE (Cyber Security)** student at **Chennai Institute of Technology*
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Gururaghavendra123&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gururaghavendra123&theme=radical&no-frame=true&row=1&margin-w=15&column=6" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
