@@ -39,25 +39,11 @@ I'm a **B.E CSE (Cyber Security)** student at **Chennai Institute of Technology*
 
 ---
 
-### 📊 GitHub Activity Dashboard
-
-Self-hosted cards — generated daily by [`.github/workflows/profile-summary.yml`](.github/workflows/profile-summary.yml), no third-party server involved.
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Gururaghavendra123/Gururaghavendra123/output/profile-summary-card-output/radical/0-profile-details.svg" />
-</div>
-
-<div align="center">
-<img width="49%" src="https://raw.githubusercontent.com/Gururaghavendra123/Gururaghavendra123/output/profile-summary-card-output/radical/1-repos-per-language.svg" />
-<img width="49%" src="https://raw.githubusercontent.com/Gururaghavendra123/Gururaghavendra123/output/profile-summary-card-output/radical/2-most-commit-language.svg" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Gururaghavendra123/Gururaghavendra123/output/profile-summary-card-output/radical/3-stats.svg" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Gururaghavendra123/Gururaghavendra123/output/profile-summary-card-output/radical/4-productive-time.svg" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
