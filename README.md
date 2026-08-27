@@ -27,6 +27,9 @@ I'm a **B.E CSE (Cyber Security)** student at **Chennai Institute of Technology*
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,fastapi,postgres,mongodb,mysql,docker,git,github,linux,html,css&theme=dark" />
+<div>
+/n
+</div>
 </div>
 
 **Generative AI:** LangChain · LangGraph · Gemini · RAG · Agentic Workflows · Prompt Engineering
